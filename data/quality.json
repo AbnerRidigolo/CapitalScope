@@ -1,0 +1,63 @@
+{
+  "extractedAt": "2026-09-18T23:40:24.895456+00:00",
+  "dates": [
+    "2025-04-30",
+    "2025-08-31",
+    "2025-12-31",
+    "2026-04-30"
+  ],
+  "rawFipRows": 11365,
+  "rawFidcRows": 15421,
+  "accepted": 23318,
+  "excludedGroups": 175,
+  "positions": [
+    {
+      "date": "2025-04-30",
+      "universe": "FIP",
+      "entities": 1848,
+      "nav": 1020949626644.8778
+    },
+    {
+      "date": "2025-04-30",
+      "universe": "FIDC",
+      "entities": 3392,
+      "nav": 768108736630.9996
+    },
+    {
+      "date": "2025-08-31",
+      "universe": "FIP",
+      "entities": 1970,
+      "nav": 1139163625488.0366
+    },
+    {
+      "date": "2025-08-31",
+      "universe": "FIDC",
+      "entities": 3717,
+      "nav": 876683597845.4609
+    },
+    {
+      "date": "2025-12-31",
+      "universe": "FIP",
+      "entities": 2041,
+      "nav": 1192543032332.7212
+    },
+    {
+      "date": "2025-12-31",
+      "universe": "FIDC",
+      "entities": 4012,
+      "nav": 917945967197.1987
+    },
+    {
+      "date": "2026-04-30",
+      "universe": "FIP",
+      "entities": 2103,
+      "nav": 1024026690693.1029
+    },
+    {
+      "date": "2026-04-30",
+      "universe": "FIDC",
+      "entities": 4235,
+      "nav": 966944995580.1383
+    }
+  ]
+}

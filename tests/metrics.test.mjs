@@ -1,0 +1,13 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import {readFileSync} from 'node:fs';
+import {aggregate,scope,series,pairedChange,scenario,sum,total} from '../app/src/content/dashboard/capital-data.js';
+const data=JSON.parse(readFileSync(new URL('../app/src/data.json',import.meta.url),'utf8'));
+const rows=data.queries.portfolio.rows;const latest=rows.filter(r=>r.date==='2026-04-30');
+test('real sources, valid CNPJs, unique reporting grain',()=>{assert.equal(data.status,'reviewed');assert.equal(rows.length,23318);assert.equal(new Set(rows.map(r=>r.universe+r.id+r.date)).size,rows.length);assert.ok(rows.every(r=>/^\d{2}\.\d{3}\.\d{3}\/\d{4}-\d{2}$/.test(r.id)));assert.ok(!JSON.stringify(rows).includes('CS-101'));});
+test('universes stay separate and quality filter intersects',()=>{assert.equal(scope(latest,{universe:'FIP'}).length,2103);assert.equal(scope(latest,{universe:'FIDC'}).length,4235);assert.ok(scope(latest,{universe:'FIDC',coverage:'PL negativo'}).every(r=>r.nav<0));});
+test('missing is not zero',()=>{assert.equal(total([{nav:null}],'nav'),null);assert.equal(aggregate([]).nav,null);assert.equal(total([{nav:0}],'nav'),0);});
+test('balances are not accumulated across reporting dates',()=>{const fip=scope(rows,{universe:'FIP'});assert.equal(series(fip).at(-1).nav,aggregate(scope(latest,{universe:'FIP'})).nav);assert.notEqual(series(fip).at(-1).nav,sum(fip,'nav'));});
+test('paired comparison intersects IDs and excludes nulls',()=>{assert.deepEqual(pairedChange([{id:'a',nav:12},{id:'b',nav:9},{id:'c',nav:null}],[{id:'a',nav:10},{id:'c',nav:8},{id:'d',nav:4}]),{count:1,before:10,after:12});});
+test('scenarios are identity at zero and preserve missing values',()=>{const zero=scenario(latest,0);assert.ok(zero.filter(r=>r.scenarioNav!==null).every(r=>r.scenarioNav===r.nav));assert.equal(scenario([{universe:'FIDC',nav:10,receivables:null}],5)[0].scenarioNav,null);assert.equal(scenario([{universe:'FIDC',nav:10,receivables:200}],10)[0].scenarioNav,-10);});
+test('aggregates reconcile with ingestion evidence',()=>{const audit=JSON.parse(readFileSync(new URL('../data/quality.json',import.meta.url),'utf8'));for(const p of audit.positions){const match=rows.filter(r=>r.universe===p.universe&&r.date===p.date);assert.equal(match.length,p.entities);assert.ok(Math.abs(sum(match,'nav')-p.nav)<.1);}});

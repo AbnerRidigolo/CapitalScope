@@ -1,0 +1,1960 @@
+[
+  {
+    "universe": "FIP",
+    "id": "06.962.594/0001-06",
+    "date": "2025-08-31",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_PATRIM_LIQ"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "07.672.313/0001-35",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_PATRIM_LIQ",
+      "VL_CAP_COMPROM",
+      "VL_CAP_INTEGR"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "12.907.124/0001-34",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_PATRIM_LIQ"
+    ],
+    "sourceRows": 4
+  },
+  {
+    "universe": "FIP",
+    "id": "17.867.471/0001-02",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_PATRIM_LIQ",
+      "VL_CAP_COMPROM",
+      "VL_CAP_INTEGR",
+      "VL_INVEST_FIP_COTA"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "19.230.524/0001-05",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_PATRIM_LIQ",
+      "VL_CAP_COMPROM",
+      "VL_CAP_INTEGR"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "21.141.789/0001-70",
+    "date": "2025-12-31",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_PATRIM_LIQ",
+      "VL_CAP_COMPROM",
+      "VL_CAP_INTEGR"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "21.204.079/0001-42",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_CAP_COMPROM",
+      "VL_CAP_INTEGR"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "21.398.200/0001-14",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_CAP_INTEGR"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "21.498.330/0001-29",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_PATRIM_LIQ",
+      "VL_CAP_COMPROM",
+      "VL_CAP_INTEGR"
+    ],
+    "sourceRows": 4
+  },
+  {
+    "universe": "FIP",
+    "id": "21.498.330/0001-29",
+    "date": "2025-08-31",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_PATRIM_LIQ"
+    ],
+    "sourceRows": 6
+  },
+  {
+    "universe": "FIP",
+    "id": "23.330.914/0001-16",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_PATRIM_LIQ",
+      "VL_CAP_COMPROM",
+      "VL_CAP_INTEGR",
+      "VL_INVEST_FIP_COTA"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "24.193.650/0001-69",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_CAP_COMPROM",
+      "VL_CAP_INTEGR"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "29.315.271/0001-18",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_CAP_COMPROM",
+      "VL_CAP_INTEGR"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "31.844.283/0001-81",
+    "date": "2025-12-31",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_CAP_INTEGR",
+      "VL_INVEST_FIP_COTA"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "32.158.948/0001-66",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_PATRIM_LIQ"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "34.218.211/0001-17",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_PATRIM_LIQ"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "34.218.211/0001-17",
+    "date": "2025-12-31",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_CAP_COMPROM",
+      "VL_CAP_INTEGR"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "35.178.942/0001-49",
+    "date": "2025-08-31",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_CAP_INTEGR"
+    ],
+    "sourceRows": 4
+  },
+  {
+    "universe": "FIP",
+    "id": "35.178.942/0001-49",
+    "date": "2025-12-31",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_CAP_INTEGR"
+    ],
+    "sourceRows": 4
+  },
+  {
+    "universe": "FIP",
+    "id": "36.200.618/0001-42",
+    "date": "2025-12-31",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_CAP_INTEGR",
+      "VL_INVEST_FIP_COTA"
+    ],
+    "sourceRows": 4
+  },
+  {
+    "universe": "FIP",
+    "id": "39.857.660/0001-29",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_CAP_COMPROM",
+      "VL_CAP_INTEGR"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "39.883.982/0001-42",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_CAP_COMPROM",
+      "VL_CAP_INTEGR"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "39.884.000/0001-37",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_CAP_COMPROM",
+      "VL_CAP_INTEGR"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "40.011.415/0001-85",
+    "date": "2025-12-31",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_PATRIM_LIQ",
+      "VL_CAP_COMPROM",
+      "VL_CAP_INTEGR",
+      "VL_INVEST_FIP_COTA"
+    ],
+    "sourceRows": 9
+  },
+  {
+    "universe": "FIP",
+    "id": "40.885.459/0001-34",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_CAP_COMPROM",
+      "VL_CAP_INTEGR"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "41.251.267/0001-39",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_CAP_COMPROM",
+      "VL_CAP_INTEGR"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "41.394.972/0001-95",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_CAP_COMPROM"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "41.519.970/0001-85",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_PATRIM_LIQ",
+      "VL_CAP_COMPROM",
+      "VL_CAP_INTEGR",
+      "VL_INVEST_FIP_COTA"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "41.557.519/0001-52",
+    "date": "2025-08-31",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_PATRIM_LIQ",
+      "VL_CAP_COMPROM",
+      "VL_CAP_INTEGR",
+      "VL_INVEST_FIP_COTA"
+    ],
+    "sourceRows": 3
+  },
+  {
+    "universe": "FIP",
+    "id": "46.405.812/0001-18",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_PATRIM_LIQ",
+      "VL_CAP_COMPROM",
+      "VL_CAP_INTEGR"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "46.783.724/0001-50",
+    "date": "2025-12-31",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_PATRIM_LIQ",
+      "VL_CAP_COMPROM"
+    ],
+    "sourceRows": 4
+  },
+  {
+    "universe": "FIP",
+    "id": "46.802.967/0001-98",
+    "date": "2025-12-31",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_PATRIM_LIQ",
+      "VL_CAP_COMPROM",
+      "VL_CAP_INTEGR"
+    ],
+    "sourceRows": 5
+  },
+  {
+    "universe": "FIP",
+    "id": "47.262.009/0001-34",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_PATRIM_LIQ"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "47.279.681/0001-32",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_PATRIM_LIQ",
+      "VL_CAP_COMPROM",
+      "VL_CAP_INTEGR"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "47.279.712/0001-55",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_CAP_COMPROM",
+      "VL_CAP_INTEGR"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "49.736.450/0001-36",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_CAP_COMPROM",
+      "VL_CAP_INTEGR"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "49.750.515/0001-06",
+    "date": "2025-12-31",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_PATRIM_LIQ",
+      "VL_CAP_COMPROM",
+      "VL_CAP_INTEGR"
+    ],
+    "sourceRows": 6
+  },
+  {
+    "universe": "FIP",
+    "id": "50.569.747/0001-33",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_PATRIM_LIQ"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "50.570.774/0001-26",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_PATRIM_LIQ"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "51.126.842/0001-25",
+    "date": "2025-12-31",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_CAP_COMPROM",
+      "VL_CAP_INTEGR"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "51.296.514/0001-77",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_CAP_COMPROM",
+      "VL_CAP_INTEGR"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "51.484.496/0001-57",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_CAP_COMPROM",
+      "VL_CAP_INTEGR"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "51.546.603/0001-24",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_PATRIM_LIQ"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "51.659.744/0001-53",
+    "date": "2025-08-31",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_CAP_INTEGR"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "51.765.916/0001-73",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_PATRIM_LIQ",
+      "VL_CAP_INTEGR"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "51.834.264/0001-81",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_PATRIM_LIQ",
+      "VL_CAP_COMPROM",
+      "VL_CAP_INTEGR",
+      "VL_INVEST_FIP_COTA"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "51.856.050/0001-06",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_PATRIM_LIQ"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "52.046.107/0001-74",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_CAP_COMPROM",
+      "VL_CAP_INTEGR"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "52.148.583/0001-04",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_CAP_COMPROM"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "52.194.287/0001-31",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_PATRIM_LIQ"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "52.579.736/0001-60",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_PATRIM_LIQ",
+      "VL_CAP_COMPROM",
+      "VL_CAP_INTEGR"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "52.579.772/0001-23",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_PATRIM_LIQ",
+      "VL_CAP_COMPROM",
+      "VL_CAP_INTEGR"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "52.701.324/0001-50",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_CAP_COMPROM",
+      "VL_CAP_INTEGR"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "52.892.489/0001-57",
+    "date": "2025-08-31",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_PATRIM_LIQ",
+      "VL_CAP_COMPROM",
+      "VL_CAP_INTEGR"
+    ],
+    "sourceRows": 12
+  },
+  {
+    "universe": "FIP",
+    "id": "52.892.489/0001-57",
+    "date": "2025-12-31",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_PATRIM_LIQ",
+      "VL_CAP_COMPROM"
+    ],
+    "sourceRows": 12
+  },
+  {
+    "universe": "FIP",
+    "id": "53.132.661/0001-37",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_PATRIM_LIQ"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "53.172.170/0001-10",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_PATRIM_LIQ",
+      "VL_CAP_COMPROM",
+      "VL_CAP_INTEGR"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "53.372.547/0001-84",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_CAP_COMPROM"
+    ],
+    "sourceRows": 4
+  },
+  {
+    "universe": "FIP",
+    "id": "53.386.984/0001-57",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_CAP_COMPROM"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "53.543.052/0001-70",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_PATRIM_LIQ",
+      "VL_CAP_INTEGR"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "54.243.926/0001-37",
+    "date": "2025-08-31",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_PATRIM_LIQ",
+      "VL_CAP_COMPROM",
+      "VL_CAP_INTEGR"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "54.243.926/0001-37",
+    "date": "2025-12-31",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_PATRIM_LIQ",
+      "VL_CAP_COMPROM",
+      "VL_CAP_INTEGR"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "54.305.003/0001-62",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_CAP_COMPROM",
+      "VL_CAP_INTEGR",
+      "VL_INVEST_FIP_COTA"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "54.421.775/0001-60",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_PATRIM_LIQ",
+      "VL_CAP_COMPROM",
+      "VL_CAP_INTEGR"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "54.563.608/0001-53",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_PATRIM_LIQ",
+      "VL_CAP_COMPROM",
+      "VL_CAP_INTEGR"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "54.901.172/0001-65",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_PATRIM_LIQ",
+      "VL_CAP_COMPROM",
+      "VL_CAP_INTEGR"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "54.901.712/0001-00",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_PATRIM_LIQ",
+      "VL_CAP_COMPROM",
+      "VL_CAP_INTEGR"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "54.994.198/0001-03",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_PATRIM_LIQ"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "55.230.883/0001-18",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_PATRIM_LIQ",
+      "VL_CAP_COMPROM",
+      "VL_CAP_INTEGR"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "55.230.986/0001-88",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_PATRIM_LIQ"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "55.231.092/0001-02",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_PATRIM_LIQ",
+      "VL_CAP_COMPROM",
+      "VL_CAP_INTEGR"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "55.523.261/0001-88",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_PATRIM_LIQ",
+      "VL_CAP_COMPROM",
+      "VL_CAP_INTEGR"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "55.594.628/0001-54",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_CAP_COMPROM",
+      "VL_CAP_INTEGR"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "55.778.813/0001-07",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_PATRIM_LIQ",
+      "VL_CAP_COMPROM",
+      "VL_CAP_INTEGR"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "55.808.231/0001-18",
+    "date": "2025-08-31",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_PATRIM_LIQ"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "55.822.058/0001-02",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_PATRIM_LIQ",
+      "VL_CAP_COMPROM",
+      "VL_CAP_INTEGR"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "55.822.609/0001-38",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_PATRIM_LIQ"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "55.825.056/0001-77",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_PATRIM_LIQ"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "55.984.634/0001-18",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_PATRIM_LIQ",
+      "VL_CAP_COMPROM",
+      "VL_CAP_INTEGR"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "56.393.559/0001-83",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_PATRIM_LIQ"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "56.393.785/0001-64",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_PATRIM_LIQ"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "57.247.545/0001-14",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_CAP_COMPROM",
+      "VL_CAP_INTEGR"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "59.030.526/0001-67",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_PATRIM_LIQ",
+      "VL_CAP_COMPROM",
+      "VL_CAP_INTEGR"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "59.109.524/0001-68",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_PATRIM_LIQ",
+      "VL_CAP_INTEGR"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "09.064.476/0001-60",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_PATRIM_LIQ",
+      "VL_CAP_COMPROM",
+      "VL_CAP_INTEGR"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "12.446.103/0001-69",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_CAP_INTEGR"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "14.737.553/0001-36",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_CAP_COMPROM",
+      "VL_CAP_INTEGR"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "15.437.701/0001-60",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_CAP_COMPROM",
+      "VL_CAP_INTEGR"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "16.580.005/0001-70",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_PATRIM_LIQ"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "16.581.185/0001-05",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_CAP_COMPROM",
+      "VL_CAP_INTEGR"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "18.151.645/0001-90",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_PATRIM_LIQ",
+      "VL_CAP_COMPROM",
+      "VL_CAP_INTEGR"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "18.653.239/0001-26",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_CAP_COMPROM",
+      "VL_CAP_INTEGR"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "18.653.262/0001-10",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_CAP_COMPROM",
+      "VL_CAP_INTEGR"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "18.800.239/0001-01",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_PATRIM_LIQ",
+      "VL_CAP_COMPROM",
+      "VL_CAP_INTEGR"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "19.250.736/0001-46",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_CAP_COMPROM",
+      "VL_CAP_INTEGR"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "19.482.879/0001-83",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_PATRIM_LIQ",
+      "VL_CAP_COMPROM",
+      "VL_CAP_INTEGR",
+      "VL_INVEST_FIP_COTA"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "20.504.602/0001-93",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_CAP_COMPROM",
+      "VL_CAP_INTEGR",
+      "VL_INVEST_FIP_COTA"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "27.035.883/0001-21",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_PATRIM_LIQ",
+      "VL_CAP_COMPROM",
+      "VL_CAP_INTEGR",
+      "VL_INVEST_FIP_COTA"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "28.715.638/0001-28",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_CAP_COMPROM",
+      "VL_CAP_INTEGR",
+      "VL_INVEST_FIP_COTA"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "30.861.043/0001-22",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_PATRIM_LIQ",
+      "VL_CAP_COMPROM",
+      "VL_CAP_INTEGR"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "31.690.279/0001-06",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_CAP_COMPROM",
+      "VL_CAP_INTEGR"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "32.308.839/0001-88",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_PATRIM_LIQ",
+      "VL_CAP_COMPROM",
+      "VL_CAP_INTEGR",
+      "VL_INVEST_FIP_COTA"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "32.308.842/0001-00",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_PATRIM_LIQ",
+      "VL_CAP_COMPROM",
+      "VL_CAP_INTEGR",
+      "VL_INVEST_FIP_COTA"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "36.672.093/0001-48",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_PATRIM_LIQ",
+      "VL_INVEST_FIP_COTA"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "36.771.037/0001-60",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_PATRIM_LIQ",
+      "VL_CAP_COMPROM",
+      "VL_CAP_INTEGR"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "36.862.634/0001-09",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_PATRIM_LIQ",
+      "VL_CAP_COMPROM",
+      "VL_CAP_INTEGR"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "37.821.938/0001-82",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_PATRIM_LIQ",
+      "VL_CAP_COMPROM",
+      "VL_CAP_INTEGR",
+      "VL_INVEST_FIP_COTA"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "38.074.629/0001-59",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_PATRIM_LIQ",
+      "VL_CAP_COMPROM",
+      "VL_CAP_INTEGR"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "38.455.726/0001-91",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_CAP_COMPROM",
+      "VL_CAP_INTEGR",
+      "VL_INVEST_FIP_COTA"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "38.455.772/0001-90",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_PATRIM_LIQ",
+      "VL_CAP_COMPROM",
+      "VL_CAP_INTEGR",
+      "VL_INVEST_FIP_COTA"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "39.863.027/0001-43",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_PATRIM_LIQ",
+      "VL_CAP_INTEGR"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "41.196.565/0001-73",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_PATRIM_LIQ",
+      "VL_CAP_COMPROM",
+      "VL_INVEST_FIP_COTA"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "42.143.157/0001-16",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_PATRIM_LIQ",
+      "VL_CAP_COMPROM",
+      "VL_CAP_INTEGR"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "42.869.937/0001-48",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_CAP_COMPROM"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "42.888.343/0001-84",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_PATRIM_LIQ",
+      "VL_CAP_COMPROM",
+      "VL_CAP_INTEGR"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "42.888.500/0001-51",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_INVEST_FIP_COTA"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "42.888.519/0001-06",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_INVEST_FIP_COTA"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "42.921.987/0001-27",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_PATRIM_LIQ",
+      "VL_CAP_COMPROM",
+      "VL_CAP_INTEGR"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "43.444.720/0001-59",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_PATRIM_LIQ",
+      "VL_CAP_COMPROM",
+      "VL_CAP_INTEGR"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "44.173.023/0001-73",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_CAP_COMPROM"
+    ],
+    "sourceRows": 20
+  },
+  {
+    "universe": "FIP",
+    "id": "44.612.934/0001-50",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_CAP_COMPROM"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "45.120.879/0001-43",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_CAP_COMPROM",
+      "VL_CAP_INTEGR"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "45.702.901/0001-63",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_PATRIM_LIQ",
+      "VL_CAP_COMPROM",
+      "VL_CAP_INTEGR",
+      "VL_INVEST_FIP_COTA"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "46.420.505/0001-06",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_PATRIM_LIQ",
+      "VL_CAP_COMPROM",
+      "VL_CAP_INTEGR"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "47.279.969/0001-07",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_PATRIM_LIQ",
+      "VL_CAP_COMPROM",
+      "VL_CAP_INTEGR"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "50.318.656/0001-25",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_PATRIM_LIQ",
+      "VL_CAP_COMPROM",
+      "VL_CAP_INTEGR"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "50.569.857/0001-03",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_PATRIM_LIQ"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "51.139.112/0001-69",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_PATRIM_LIQ"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "51.146.313/0001-93",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_PATRIM_LIQ",
+      "VL_CAP_COMPROM",
+      "VL_CAP_INTEGR"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "51.163.256/0001-50",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_PATRIM_LIQ"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "51.163.389/0001-27",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_PATRIM_LIQ",
+      "VL_CAP_COMPROM",
+      "VL_CAP_INTEGR"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "51.484.349/0001-87",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_PATRIM_LIQ",
+      "VL_CAP_COMPROM",
+      "VL_CAP_INTEGR",
+      "VL_INVEST_FIP_COTA"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "51.627.185/0001-08",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_PATRIM_LIQ",
+      "VL_CAP_COMPROM",
+      "VL_CAP_INTEGR"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "51.907.674/0001-05",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_PATRIM_LIQ",
+      "VL_CAP_INTEGR"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "52.268.028/0001-08",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_CAP_COMPROM",
+      "VL_CAP_INTEGR"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "06.962.594/0001-06",
+    "date": "2026-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_PATRIM_LIQ"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "21.141.789/0001-70",
+    "date": "2026-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_PATRIM_LIQ",
+      "VL_CAP_COMPROM",
+      "VL_CAP_INTEGR"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "27.412.211/0001-98",
+    "date": "2026-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_PATRIM_LIQ",
+      "VL_CAP_INTEGR"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "30.871.793/0001-85",
+    "date": "2026-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_PATRIM_LIQ",
+      "VL_CAP_INTEGR"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "32.313.958/0001-29",
+    "date": "2026-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_CAP_INTEGR"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "33.625.019/0001-82",
+    "date": "2026-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_PATRIM_LIQ",
+      "VL_CAP_INTEGR",
+      "VL_INVEST_FIP_COTA"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "40.011.415/0001-85",
+    "date": "2026-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_CAP_COMPROM",
+      "VL_CAP_INTEGR",
+      "VL_INVEST_FIP_COTA"
+    ],
+    "sourceRows": 12
+  },
+  {
+    "universe": "FIP",
+    "id": "41.978.361/0001-94",
+    "date": "2026-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_PATRIM_LIQ",
+      "VL_CAP_COMPROM",
+      "VL_CAP_INTEGR"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "46.375.372/0001-01",
+    "date": "2026-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_CAP_COMPROM",
+      "VL_CAP_INTEGR"
+    ],
+    "sourceRows": 6
+  },
+  {
+    "universe": "FIP",
+    "id": "46.783.724/0001-50",
+    "date": "2026-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_PATRIM_LIQ",
+      "VL_CAP_COMPROM",
+      "VL_CAP_INTEGR"
+    ],
+    "sourceRows": 4
+  },
+  {
+    "universe": "FIP",
+    "id": "46.802.967/0001-98",
+    "date": "2026-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_CAP_COMPROM",
+      "VL_CAP_INTEGR"
+    ],
+    "sourceRows": 5
+  },
+  {
+    "universe": "FIP",
+    "id": "49.750.515/0001-06",
+    "date": "2026-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_CAP_COMPROM",
+      "VL_CAP_INTEGR"
+    ],
+    "sourceRows": 6
+  },
+  {
+    "universe": "FIP",
+    "id": "51.126.842/0001-25",
+    "date": "2026-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_CAP_COMPROM",
+      "VL_CAP_INTEGR"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "51.339.815/0001-30",
+    "date": "2026-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_PATRIM_LIQ",
+      "VL_CAP_INTEGR"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIP",
+    "id": "60.007.104/0001-50",
+    "date": "2026-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "VL_CAP_INTEGR"
+    ],
+    "sourceRows": 8
+  },
+  {
+    "universe": "FIDC-I",
+    "id": "08.621.199/0001-87",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "TAB_I_VL_ATIVO",
+      "TAB_I2A_VL_DIRCRED_RISCO",
+      "TAB_I2B_VL_DIRCRED_SEM_RISCO",
+      "TAB_I2A3_VL_CRED_INAD",
+      "TAB_I2B3_VL_CRED_INAD"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIDC-I",
+    "id": "45.899.745/0001-72",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "TAB_I2A3_VL_CRED_INAD"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIDC-I",
+    "id": "49.176.545/0001-42",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "TAB_I_VL_ATIVO",
+      "TAB_I2A_VL_DIRCRED_RISCO"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIDC-I",
+    "id": "08.621.199/0001-87",
+    "date": "2025-08-31",
+    "reason": "conflicting_values",
+    "fields": [
+      "TAB_I_VL_ATIVO",
+      "TAB_I2A_VL_DIRCRED_RISCO",
+      "TAB_I2B_VL_DIRCRED_SEM_RISCO",
+      "TAB_I2A3_VL_CRED_INAD",
+      "TAB_I2B3_VL_CRED_INAD"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIDC-I",
+    "id": "32.295.244/0001-35",
+    "date": "2025-08-31",
+    "reason": "conflicting_values",
+    "fields": [
+      "TAB_I_VL_ATIVO",
+      "TAB_I2A_VL_DIRCRED_RISCO",
+      "TAB_I2A3_VL_CRED_INAD"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIDC-I",
+    "id": "45.899.745/0001-72",
+    "date": "2025-08-31",
+    "reason": "conflicting_values",
+    "fields": [
+      "TAB_I2A3_VL_CRED_INAD"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIDC-I",
+    "id": "49.176.545/0001-42",
+    "date": "2025-08-31",
+    "reason": "conflicting_values",
+    "fields": [
+      "TAB_I_VL_ATIVO",
+      "TAB_I2A_VL_DIRCRED_RISCO"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIDC-I",
+    "id": "50.311.731/0001-26",
+    "date": "2025-08-31",
+    "reason": "conflicting_values",
+    "fields": [
+      "TAB_I_VL_ATIVO"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIDC-I",
+    "id": "51.292.131/0001-20",
+    "date": "2025-08-31",
+    "reason": "conflicting_values",
+    "fields": [
+      "TAB_I_VL_ATIVO",
+      "TAB_I2A_VL_DIRCRED_RISCO",
+      "TAB_I2A3_VL_CRED_INAD"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIDC-I",
+    "id": "15.586.793/0001-40",
+    "date": "2025-12-31",
+    "reason": "conflicting_values",
+    "fields": [
+      "TAB_I_VL_ATIVO",
+      "TAB_I2A_VL_DIRCRED_RISCO",
+      "TAB_I2A3_VL_CRED_INAD"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIDC-I",
+    "id": "32.774.233/0001-38",
+    "date": "2025-12-31",
+    "reason": "conflicting_values",
+    "fields": [
+      "TAB_I_VL_ATIVO",
+      "TAB_I2A_VL_DIRCRED_RISCO"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIDC-I",
+    "id": "37.227.754/0001-99",
+    "date": "2025-12-31",
+    "reason": "conflicting_values",
+    "fields": [
+      "TAB_I_VL_ATIVO"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIDC-I",
+    "id": "58.211.468/0001-05",
+    "date": "2025-12-31",
+    "reason": "conflicting_values",
+    "fields": [
+      "TAB_I_VL_ATIVO",
+      "TAB_I2A_VL_DIRCRED_RISCO"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIDC-I",
+    "id": "63.884.724/0001-65",
+    "date": "2025-12-31",
+    "reason": "conflicting_values",
+    "fields": [
+      "TAB_I_VL_ATIVO"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIDC-IV",
+    "id": "08.621.199/0001-87",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "TAB_IV_A_VL_PL"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIDC-IV",
+    "id": "49.176.545/0001-42",
+    "date": "2025-04-30",
+    "reason": "conflicting_values",
+    "fields": [
+      "TAB_IV_A_VL_PL"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIDC-IV",
+    "id": "08.621.199/0001-87",
+    "date": "2025-08-31",
+    "reason": "conflicting_values",
+    "fields": [
+      "TAB_IV_A_VL_PL"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIDC-IV",
+    "id": "32.295.244/0001-35",
+    "date": "2025-08-31",
+    "reason": "conflicting_values",
+    "fields": [
+      "TAB_IV_A_VL_PL"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIDC-IV",
+    "id": "49.176.545/0001-42",
+    "date": "2025-08-31",
+    "reason": "conflicting_values",
+    "fields": [
+      "TAB_IV_A_VL_PL"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIDC-IV",
+    "id": "51.292.131/0001-20",
+    "date": "2025-08-31",
+    "reason": "conflicting_values",
+    "fields": [
+      "TAB_IV_A_VL_PL"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIDC-IV",
+    "id": "15.586.793/0001-40",
+    "date": "2025-12-31",
+    "reason": "conflicting_values",
+    "fields": [
+      "TAB_IV_A_VL_PL"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIDC-IV",
+    "id": "32.774.233/0001-38",
+    "date": "2025-12-31",
+    "reason": "conflicting_values",
+    "fields": [
+      "TAB_IV_A_VL_PL"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIDC-IV",
+    "id": "37.227.754/0001-99",
+    "date": "2025-12-31",
+    "reason": "conflicting_values",
+    "fields": [
+      "TAB_IV_A_VL_PL"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIDC-IV",
+    "id": "58.211.468/0001-05",
+    "date": "2025-12-31",
+    "reason": "conflicting_values",
+    "fields": [
+      "TAB_IV_A_VL_PL"
+    ],
+    "sourceRows": 2
+  },
+  {
+    "universe": "FIDC-IV",
+    "id": "63.884.724/0001-65",
+    "date": "2025-12-31",
+    "reason": "conflicting_values",
+    "fields": [
+      "TAB_IV_A_VL_PL"
+    ],
+    "sourceRows": 2
+  }
+]

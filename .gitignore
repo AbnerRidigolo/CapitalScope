@@ -1,0 +1,9 @@
+node_modules/
+**/.data-app-offline/
+**/__pycache__/
+*.pyc
+.env
+.env.*
+data/raw/
+reviewed.json
+**/.data-app-build-*/

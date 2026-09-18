@@ -1,0 +1,53 @@
+{
+  "extractedAt": "2026-09-18T23:40:24.895456+00:00",
+  "files": [
+    {
+      "url": "https://dados.cvm.gov.br/dados/FIP/DOC/INF_QUADRIMESTRAL/DADOS/inf_quadrimestral_fip_2025.csv",
+      "file": "inf_quadrimestral_fip_2025.csv",
+      "sha256": "aef5e48550c964791b6712a1a738227f7afa1d28e3ff6956bd26c6045443f5db",
+      "bytes": 5475083
+    },
+    {
+      "url": "https://dados.cvm.gov.br/dados/FIP/DOC/INF_QUADRIMESTRAL/DADOS/inf_quadrimestral_fip_2026.csv",
+      "file": "inf_quadrimestral_fip_2026.csv",
+      "sha256": "3f3e970843b2d85d651b9d5990e68969942ec20a5bc517bc924f09f167cc253e",
+      "bytes": 2424851
+    },
+    {
+      "url": "https://dados.cvm.gov.br/dados/FIDC/DOC/INF_MENSAL/DADOS/inf_mensal_fidc_202504.zip",
+      "file": "inf_mensal_fidc_202504.zip",
+      "sha256": "81f2233f2bb021d3a8e56ef703b7b15f16460b2578d2996dbd136898c9d14340",
+      "bytes": 2792528
+    },
+    {
+      "url": "https://dados.cvm.gov.br/dados/FIDC/DOC/INF_MENSAL/DADOS/inf_mensal_fidc_202508.zip",
+      "file": "inf_mensal_fidc_202508.zip",
+      "sha256": "960b752acade2bdabeb56269d91f1714a0a20fa2aa4f06592f838e9d211c440a",
+      "bytes": 3065747
+    },
+    {
+      "url": "https://dados.cvm.gov.br/dados/FIDC/DOC/INF_MENSAL/DADOS/inf_mensal_fidc_202512.zip",
+      "file": "inf_mensal_fidc_202512.zip",
+      "sha256": "3afbce921c7962d6adf81d648317263d9c9798b4a915244d1d63001f126b329f",
+      "bytes": 3268689
+    },
+    {
+      "url": "https://dados.cvm.gov.br/dados/FIDC/DOC/INF_MENSAL/DADOS/inf_mensal_fidc_202604.zip",
+      "file": "inf_mensal_fidc_202604.zip",
+      "sha256": "990f11b82a42acb29601a69bd42a129ab9c649e099743bbc24627307b47bdac6",
+      "bytes": 3386249
+    },
+    {
+      "url": "https://dados.cvm.gov.br/dados/FIP/DOC/INF_QUADRIMESTRAL/META/meta_inf_quadrimestral_fip.txt",
+      "file": "meta_inf_quadrimestral_fip.txt",
+      "sha256": "1cab9fb27223c6615fb292f93b927654771b7977fcbb8947a7880a32be135d8e",
+      "bytes": 13084
+    },
+    {
+      "url": "https://dados.cvm.gov.br/dados/FIDC/DOC/INF_MENSAL/META/meta_inf_mensal_fidc_txt.zip",
+      "file": "meta_inf_mensal_fidc_txt.zip",
+      "sha256": "32380cee3665ec20b11494891ef4f00cfc802e2074d7c452c87ace1e2bc6d8df",
+      "bytes": 15942
+    }
+  ]
+}
