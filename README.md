@@ -1,5 +1,26 @@
 # CapitalScope
 
+> **CapitalScope — dados públicos transformados em análise de fundos.**
+
+**Python · React · JavaScript · Qualidade de dados · Rastreabilidade**
+
+[Executar a demonstração](#abrir-em-dois-passos) · [Metodologia](docs/methodology.md) · [Atualizar e testar](#atualizar-e-testar)
+
+## O projeto em 30 segundos
+
+- **Problema:** reunir informações públicas de FIPs e FIDCs em uma base comparável e rastreável.
+- **Solução:** ingestão em Python, normalização, manifestos SHA256 e verificações de qualidade.
+- **Entrega:** painel local com busca por fundo/CNPJ, histórico e cenários hipotéticos.
+- **Escala do snapshot:** 23.318 posições em quatro competências, com extração em 18/09/2026.
+
+```mermaid
+flowchart LR
+    A[Arquivos públicos da CVM] --> B[Ingestão e normalização em Python]
+    B --> C[Snapshot JSON]
+    B --> D[Manifestos e auditoria de exclusões]
+    C --> E[Painel React]
+```
+
 BI local para explorar fundos brasileiros com **dados públicos reais da CVM**. A primeira versão acompanha Fundos de Investimento em Participações (FIP) e Fundos de Investimento em Direitos Creditórios (FIDC).
 
 ## Abrir em dois passos
